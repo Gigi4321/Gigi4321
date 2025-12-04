@@ -1,6 +1,4 @@
-
-
-![Banner](![810d5634bb73f3e2151331092612bef3](https://github.com/user-attachments/assets/72100bfd-640d-43ee-adb6-d78d0d8e1d6e))
+![810d5634bb73f3e2151331092612bef3](https://github.com/user-attachments/assets/bda080e8-74cf-447b-a5cf-93cdb30be2f3)
 
 ## 👋 Hi, I'm Engy Osman
 
