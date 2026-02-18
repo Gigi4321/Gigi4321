@@ -12,10 +12,10 @@ Front-End Developer | UI/UX Designer | Angular Developer
 
 ## 👩‍💻 About Me
 
-💡 Turning ideas into responsive, interactive & user-friendly web apps  
-🎨 Strong background in UI/UX Design  
-🚀 Passionate about building scalable Angular Applications  
-📚 Constantly learning & improving performance & clean architecture  
+ 1-Turning ideas into responsive, interactive & user-friendly web apps  
+ 2-Strong background in UI/UX Design  
+ 3-Passionate about building scalable Angular Applications  
+ 4-Constantly learning & improving performance & clean architecture  
 
 ---
 
@@ -51,17 +51,9 @@ Front-End Developer | UI/UX Designer | Angular Developer
 
 ---
 
-## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
